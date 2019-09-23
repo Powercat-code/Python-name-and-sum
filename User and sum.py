@@ -1,5 +1,5 @@
 #name input
-person = input("enter your name and press enter\n")
+person = input("enter your name and press enter ")
 
 #number input
 
