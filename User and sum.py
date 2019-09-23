@@ -1,3 +1,4 @@
+#written in Python 3
 #name input
 person = input("enter your name and press enter ")
 
